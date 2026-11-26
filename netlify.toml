@@ -1,0 +1,4 @@
+# Plain HTML/CSS/JS front end in public/ — no compile or bundle step is required.
+[build]
+  publish = "public"
+  command = ""
